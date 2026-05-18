@@ -181,7 +181,7 @@ public class DefaultController {
                 + "<br>&nbsp;&nbsp;password:"
                 + "<br>application:"
                 + "<br>&nbsp;&nbsp;role:&nbsp;\"ALL\""
-                + "<br>&nbsp;&nbsp;version:&nbsp;\"Api Tester v1.0.0\""
+                + "<br>&nbsp;&nbsp;version:&nbsp;\"Api Tester v2.0.0\""
                 + "<br>"
                 + "<br>postgresql:"
                 + "<br>&nbsp;&nbsp;filepath:"
